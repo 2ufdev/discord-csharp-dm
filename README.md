@@ -1,4 +1,4 @@
-**DMall** is a Windows Forms application written in C# using **DSharpPlus** for Discord interactions and **KeyAuth** for license management. It allows sending direct messages (DMs) to all members of a Discord server.
+**DMall** is a Windows Forms application written in C# using **DSharpPlus** for Discord interactions. It allows sending direct messages (DMs) to all members of a Discord server.
 
 > ⚠️ **Warning**: Using this bot to spam or mass-mention users may violate [Discord’s Terms of Service](https://discord.com/terms) and can result in your account or server being banned. Use only for legal and educational purposes.
 
