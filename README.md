@@ -20,7 +20,6 @@
 
 * .NET Framework 4.7.2 or higher
 * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
-* [KeyAuth](https://keyauth.com/)
 * An active Discord bot with a valid token
 * Target Discord server ID
 
